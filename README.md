@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/License-Apache%202.0-brightolive?style=plastic)
+[![Static Badge](https://img.shields.io/badge/License-Apache%202.0-brightolive?style=plastic)](https://opensource.org/license/apache-2.0)
 
 ### Uguisu_bari
 
