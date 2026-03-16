@@ -1,4 +1,4 @@
-![GitHub License](https://img.shields.io/github/license/Hexnik/uguisu_bari)
+![Static Badge](https://img.shields.io/badge/License-Apache%202.0-brightolive?style=plastic)
 
 ### Uguisu_bari
 
