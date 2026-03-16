@@ -1,0 +1,5 @@
+/home/nik/DEV/00_pet_projects/Active/uguisi_bari/src_win/uguisu_bari_win/uguisu_bari_win/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/nik/DEV/00_pet_projects/Active/uguisi_bari/src_win/uguisu_bari_win/uguisu_bari_win/bin/Debug/uguisu_bari_win.pdb
+/home/nik/DEV/00_pet_projects/Active/uguisi_bari/src_win/uguisu_bari_win/uguisu_bari_win/bin/Debug/uguisu_bari_win.exe
+/home/nik/DEV/00_pet_projects/Active/uguisi_bari/src_win/uguisu_bari_win/uguisu_bari_win/obj/x86/Debug/uguisu_bari_win.exe
+/home/nik/DEV/00_pet_projects/Active/uguisi_bari/src_win/uguisu_bari_win/uguisu_bari_win/obj/x86/Debug/uguisu_bari_win.pdb
